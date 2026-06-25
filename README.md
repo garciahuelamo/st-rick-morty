@@ -68,3 +68,7 @@ characters = pd.read_csv('data/dataset.csv')
 
 - Update file paths if the project is moved or if the dataset is stored in a different folder.
 - If you add processed outputs or visualizations, place them in a dedicated `output/` or `results/` folder.
+
+![Rick and Morty](./image.png)
+![Rick and Morty](./image-1.png)
+![Rick and Morty](./image-2.png)
